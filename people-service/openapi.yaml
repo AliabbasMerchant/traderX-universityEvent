@@ -1,7 +1,7 @@
 openapi: 3.0.1
 info:
-  title: PeopleService.WebApi
-  version: v1
+  title: "People Service - TraderX"
+  version: "1.0"
 paths:
   /People/GetPerson:
     get:
@@ -11,11 +11,13 @@ paths:
       parameters:
         - name: LogonId
           in: query
+          required: false
           schema:
             type: string
             nullable: true
         - name: EmployeeId
           in: query
+          required: false
           schema:
             type: string
             nullable: true
@@ -38,11 +40,13 @@ paths:
       parameters:
         - name: SearchText
           in: query
+          required: true
           schema:
             type: string
-            nullable: true
+            nullable: false
         - name: Take
           in: query
+          required: false
           schema:
             type: integer
             format: int32
@@ -67,11 +71,13 @@ paths:
       parameters:
         - name: LogonId
           in: query
+          required: false
           schema:
             type: string
             nullable: true
         - name: EmployeeId
           in: query
+          required: false
           schema:
             type: string
             nullable: true

@@ -14,7 +14,7 @@ You can find the coordinates of the codebase here. Their relationship is explain
 ### `people-service`
 
 * .NET
-* [Source Code](../people-service)
+* [Source Code](../ppl-service)
 
 
 ### `position-service`

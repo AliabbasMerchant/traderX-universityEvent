@@ -1,0 +1,82 @@
+[
+    {
+      "logonId": "user01",
+      "fullName": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "employeeId": "E0001",
+      "department": "HR",
+      "photoUrl": "https://example.com/photos/user01.jpg"
+    },
+    {
+      "logonId": "user02",
+      "fullName": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "employeeId": "E0002",
+      "department": "Finance",
+      "photoUrl": "https://example.com/photos/user02.jpg"
+    },
+    {
+      "logonId": "user03",
+      "fullName": "Carol Brown",
+      "email": "carol.brown@example.com",
+      "employeeId": "E0003",
+      "department": "IT",
+      "photoUrl": "https://example.com/photos/user03.jpg"
+    },
+    {
+      "logonId": "user04",
+      "fullName": "David Lee",
+      "email": "david.lee@example.com",
+      "employeeId": "E0004",
+      "department": "Sales",
+      "photoUrl": "https://example.com/photos/user04.jpg"
+    },
+    {
+      "logonId": "user05",
+      "fullName": "Eva Garcia",
+      "email": "eva.garcia@example.com",
+      "employeeId": "E0005",
+      "department": "Marketing",
+      "photoUrl": "https://example.com/photos/user05.jpg"
+    },
+    {
+      "logonId": "user06",
+      "fullName": "Frank Wilson",
+      "email": "frank.wilson@example.com",
+      "employeeId": "E0006",
+      "department": "HR",
+      "photoUrl": "https://example.com/photos/user06.jpg"
+    },
+    {
+      "logonId": "user07",
+      "fullName": "Grace Harris",
+      "email": "grace.harris@example.com",
+      "employeeId": "E0007",
+      "department": "Finance",
+      "photoUrl": "https://example.com/photos/user07.jpg"
+    },
+    {
+      "logonId": "user08",
+      "fullName": "Henry Martinez",
+      "email": "henry.martinez@example.com",
+      "employeeId": "E0008",
+      "department": "IT",
+      "photoUrl": "https://example.com/photos/user08.jpg"
+    },
+    {
+      "logonId": "user09",
+      "fullName": "Ivy Clark",
+      "email": "ivy.clark@example.com",
+      "employeeId": "E0009",
+      "department": "Sales",
+      "photoUrl": "https://example.com/photos/user09.jpg"
+    },
+    {
+      "logonId": "user10",
+      "fullName": "Will Mao",
+      "email": "will.mao@example.com",
+      "employeeId": "E0010",
+      "department": "Marketing",
+      "photoUrl": "https://example.com/photos/user10.jpg"
+    }
+ ]
