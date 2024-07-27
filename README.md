@@ -41,7 +41,7 @@ The project consists of multiple moving parts, and you can see how things hang t
 | :--- | :--- | :--- |
 | [docs](docs) | markdown | Architecture and Flow Diagrams are here! |
 | [database](database) | java/h2 | A simple self-contained SQL database |
-| [reference-data](reference-data) | node/nestjs | REST service (off a flat file) for querying ticker symbols |
+| [reference-data](reference-data) | java/spring  | REST service (off a flat file) for querying ticker symbols |
 | [trade-feed](trade-feed) | node/socketio | Message bus used for trade flows, as well as streaming to the GUI |
 | [people-service](ppl-service) | .Net core | Service for looking up users, for account mangement |
 | [account-service](account-service) | java/spring | Service for querying and validating accounts |

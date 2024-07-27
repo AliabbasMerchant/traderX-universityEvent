@@ -24,8 +24,8 @@ You can find the coordinates of the codebase here. Their relationship is explain
 
 ### `reference-data`
 
-* NodeJS
-* [Source Code](../refdata-service)
+* Java / Spring Boot
+* [Source Code](../reference-data)
 
 ### `trade-feed`
 
