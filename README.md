@@ -17,7 +17,7 @@ It is designed to be runnable from any developer workstation with minimal assump
 other than Node, Java and Python runtimes. The libraries and toolkits it uses are meant
 to be as vanilla as possible, to preserve its approachability by developers of all levels.
 
-It contains Java, NodeJS, Python, .NET components that communicate over REST APIs and
+It contains Java, NodeJS, Python components that communicate over REST APIs and
 messaging systems and are able to showcase a wide range of technical challenges to solve.
 
 More detailed information about this project can be found in the website which is generated
@@ -43,7 +43,7 @@ The project consists of multiple moving parts, and you can see how things hang t
 | [database](database) | java/h2 | A simple self-contained SQL database |
 | [reference-data](reference-data) | java/spring  | REST service (off a flat file) for querying ticker symbols |
 | [trade-feed](trade-feed) | node/socketio | Message bus used for trade flows, as well as streaming to the GUI |
-| [people-service](ppl-service) | .Net core | Service for looking up users, for account mangement |
+| [people-service](people-service) | java/spring | Service for looking up users, for account mangement |
 | [account-service](account-service) | java/spring | Service for querying and validating accounts |
 | [position-service](position-service) | java/spring | Position service for looking up positions and trades by the blotter |
 | [trade-service](trade-service) | java/spring | Service for submitting trade/order requests for further processing |

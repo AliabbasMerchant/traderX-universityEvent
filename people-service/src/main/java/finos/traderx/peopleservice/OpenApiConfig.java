@@ -19,7 +19,7 @@ public class OpenApiConfig {
         Info info = new Info()
                 .title("FINOS TraderX People Service")
                 .version("0.1.0")
-                .description("Service for managing users, and for associating them with accounts");
+                .description("Service for managing users");
 
         OpenAPI api = new OpenAPI()
                 .addServersItem(serverInfo("", "Empty URL to help proxied documentation work"))

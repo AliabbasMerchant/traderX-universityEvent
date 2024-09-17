@@ -13,8 +13,8 @@ You can find the coordinates of the codebase here. Their relationship is explain
 
 ### `people-service`
 
-* .NET
-* [Source Code](../ppl-service)
+* Java / Spring Boot
+* [Source Code](../people-service)
 
 
 ### `position-service`
